@@ -1,7 +1,7 @@
 {
-  "compatibility_date": "2025-10-08",
-  "main": "src/index.ts",
-  "name": "d1-template",
+  "name": "2b",
+  "main": "src/index.js",
+  "compatibility_date": "2025-11-25",
   "upload_source_maps": true,
   "d1_databases": [
     {
@@ -12,5 +12,12 @@
   ],
   "observability": {
     "enabled": true
-  }
+  },
+  "vpc_services": [
+    {
+      "binding": "OTAKU_SERVICE",
+      "service_id": "05f4d2e-2f3c-7233-bace-a728b8038dd...",
+      "remote": true
+    }
+  ]
 }
