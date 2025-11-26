@@ -2,7 +2,7 @@
 {
   "compatibility_date": "2025-10-08",
   "main": "src/index.ts",
-  "name": "d1-template",
+  "name": "2b",
   "upload_source_maps": true,
   "d1_databases": [
     {
